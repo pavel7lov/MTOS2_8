@@ -1,0 +1,55 @@
+MCLICK
+	MCLICK is a lightweight, simple game is designed to give the user an easy and fun break when using with our OS. This game will have you racing against time.
+To start this click the “Click Click Click!!!” icon, and continue to click the same button until you have clicked 100 times. At the end of this you will be presented with your time.
+
+MTEXT
+	MTEXT is a  text editor that allows the user to type, perform some basic formatting to, and load text. You are able to load (.txt.) files and save with a custom filename, and filetype. 
+	To load a file, click the “Load” button, this will prompt a directory that you can select a text file from. Once you have made your choice, click the “Open” button on the directory. To save a file, type the file name that you wish the save the text under and click the “Save As..” button. You can also change the file type by typing in the  file-type box. (Beside the filename box.)
+
+MBACK
+	MBACK is a background changer that allows the user customize their wallpaper from a total of 9  preloaded high resolution pictures. These pictures can be changed to reflect your mood.
+Simply click the icon of the picture you want to set as the background. Your background choice will be saved for the next time you open the OS.  	
+
+MSONG
+	This application can play audio files and can be minimized so you can play music while using other parts of the OS.
+	First you must chose the song you wish to play, by clicking the “Choose Song” button,  to then load the song you must click the “Reload Player” button. To play the chosen audio file, click the “Play” button and to stop click the “Stop” button.
+
+MCALC
+	MCALC is an application that allows you to perform basic calculations such as addition, subtraction, and multiplication.
+	You can enter numbers into the calculator through either the on screen number selection or through the your keyboard.  You can do the same to select functions. Your answer will be displayed once you click the equals sign.
+
+
+MHELP
+	This application provides basic user help. You are viewing this application now.
+
+Accounts
+In order to create a new account, open MTEXT, and edit both the Username and Password files. The n’th line in the username text file corresponds with the n’th line in the password text file.
+
+Taskbar
+	Our taskbar is used to navigate through applications on our OS, and displays the time. To open the menu, click the MTOS logo in the top left hand corner of the screen.  You can launch applications through clicking them, or simply click the applications on the OS mainscreen itself. You can also access the current date if you rollover the current time, which is stated in the top right hand corner.  Your current city and temperature is displayed in the middle of this bar.
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
